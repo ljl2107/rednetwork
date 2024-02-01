@@ -1,5 +1,5 @@
 ---
-title: gallery
+title: 照片
 date: 2023-12-23 18:56:24
 ---
 <div class="gallery-group-main">
